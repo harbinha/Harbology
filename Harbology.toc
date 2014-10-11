@@ -1,0 +1,8 @@
+## Interface: 50400
+## Title: Harbology
+## Author: Harbin
+## OptDeps: BugSack, BugGrabber
+## SavedVariables: harbologyData
+## SavedVariablesPerCharacter: charData, loginCount
+
+Harbology.lua
