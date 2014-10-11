@@ -1,7 +1,7 @@
 Harbology
 =========
 
-WoW addon to write combat log to file
+WoW addon to do whatever we want it to do
 
 
 Setup:
